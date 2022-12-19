@@ -12,8 +12,7 @@ int sum1(int n){
 
 int main()
 {
-    int n;
-    scanf("%d", &n);
+    int n=10;
     int j = sum1(n);
     printf("%d", j);
 }
